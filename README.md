@@ -80,9 +80,6 @@ Ensure that your webcam is properly connected and accessible. The script require
 - **Hand Detection**: Uses Mediapipe to detect hand landmarks and gestures.
 - **Brightness Adjustment**: Calls a PowerShell script to adjust the brightness based on the detected hand gesture.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please create a pull request or open an issue to discuss any changes.
 
 ## Contact 📬
 
